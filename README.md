@@ -6,7 +6,7 @@ This is the version 2.0 of a simple Text-to-Speech (TTS) application developed b
 
 ## Requirements
 
-- Python 3.x
+- Python 3 or higher
 - pyttsx3 library
 
 ## Installation
